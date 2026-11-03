@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+alembic
+psycopg2-binary
+pydantic[email]
+pydantic-settings
+python-dotenv
+inngest
+resend
+transformers
+torch
+svix
+google-generativeai
+python-multipart
+
+
